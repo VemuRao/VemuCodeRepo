@@ -1,0 +1,15 @@
+
+public class Loops {
+
+	public static void main(String[] args) {
+		int i=1;
+		
+		//While loop: always checks for true condition
+		
+		while(i<=10) {
+			System.out.println(i);
+		}
+
+	}
+
+}

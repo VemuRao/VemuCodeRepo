@@ -1,0 +1,37 @@
+
+public class PrePostIncrement {
+
+	public static void main(String[] args) {
+		int i=5;
+		i= i+1;
+		
+		int j=5;
+		j= j++;
+		
+		int k=5;
+		k=++k;
+		
+		int l,m,n,o;
+		l=5;
+		m=++l;
+		
+		n=5;
+		o=n++;
+		
+		System.out.println("The value of i is: "+i);
+		System.out.println("The value of j is: "+j);
+		System.out.println("The value of k is: "+k);
+		System.out.println("The value of l is: "+l);
+		System.out.println("The value of m is: "+m);
+		System.out.println("The value of n is: "+n);
+		System.out.println("The value of o is: "+o);
+		
+				
+				
+		
+		
+		
+
+	}
+
+}

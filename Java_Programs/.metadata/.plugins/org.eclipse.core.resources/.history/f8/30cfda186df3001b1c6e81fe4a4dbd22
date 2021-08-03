@@ -1,0 +1,27 @@
+
+public class PalindromeNumber {
+
+	public static void main(String[] args) {
+		int n=1111,r,s=0,t=n;
+		
+		while(n>0)
+		{
+			r=n%10;
+			n=n/10;
+			s=(s*10)+r;
+		}
+		
+		System.out.println("The Value of s is: "+s);
+		
+		if(s==t) {
+			System.out.println(s + " is a Palindrome");
+		}
+		
+		else {
+			System.out.println(s + " is not a Palindrome");
+		}
+		
+
+	}
+
+}

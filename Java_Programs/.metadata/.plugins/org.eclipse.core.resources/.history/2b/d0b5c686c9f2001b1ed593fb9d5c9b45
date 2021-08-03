@@ -1,0 +1,28 @@
+
+public class TernaryOperator {
+
+	public static void main(String[] args) {
+		//Ternary operator ((condition)?(true value):(else false value))
+		//Ternary operator is the replace of If Else logic but it will always returns the biggest data type value.
+		
+		int a=1;
+		int b=5;
+		
+//		if(a==1) 
+//		{
+//			++b;
+//			System.out.println("Value of b is: "+b);
+//		}
+//		else {
+//			System.out.println("Value fo b is: "+b);
+//		}
+		
+		//Same above code in Ternary operator
+		
+		b=a==1?++b:b;
+		System.out.println("Value fo b is: "+b);
+		
+
+	}
+
+}

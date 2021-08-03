@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="PrintfPrintln"/>
+    <fullyQualifiedTypeName name="sun.awt.windows.ThemeReader"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.NEW"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.ClassWriter.ClassOutputStream"/>
+    <fullyQualifiedTypeName name="sun.java2d.pipe.OutlineTextRenderer"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.XPath.Scanner"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.If"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.PublicMethods"/>
+    <fullyQualifiedTypeName name="java.lang.invoke.DirectMethodHandle.StaticAccessor"/>
+    <fullyQualifiedTypeName name="PrintRandomNumbers"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="javax.swing.ToolTipManager.insideTimerAction"/>
+    <fullyQualifiedTypeName name="VarArgs.Display"/>
+</qualifiedTypeNameHistroy>

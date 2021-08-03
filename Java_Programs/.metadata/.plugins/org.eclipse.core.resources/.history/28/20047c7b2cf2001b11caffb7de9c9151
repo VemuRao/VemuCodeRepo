@@ -1,0 +1,16 @@
+
+public class ShorthandOperator {
+
+	public static void main(String[] args) {
+		
+		int i=5;
+		int j=5;
+		i = i+2;
+		j += 2;
+		
+		System.out.println("The value of i+2 is:" +i);
+		System.out.println("The value of j+2 is:" +j);
+
+	}
+
+}

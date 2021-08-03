@@ -1,0 +1,19 @@
+
+public class Loops {
+
+	public static void main(String[] args) {
+		int i=1;
+		
+		//While loop: always checks for true condition
+		System.out.println("While Loop:");
+		
+		while(i<=10) {
+			System.out.println(i);
+			i++; //post increment
+		}
+		
+		//do{} while(condition): First evaluates the block and then checks for the condition
+
+	}
+
+}

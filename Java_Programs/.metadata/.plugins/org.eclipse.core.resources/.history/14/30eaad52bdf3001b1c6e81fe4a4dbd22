@@ -1,0 +1,23 @@
+
+public class VarArgs {
+
+	public static void main(String[] args) {
+		
+		Display.show(5,6);
+		
+
+	}
+	
+	public class Display {
+		
+		static void show(int ... a) {
+			
+			for(int i:a)
+			
+			System.out.println("The Value is : "+ i);
+		}
+		
+	
+	}
+
+}

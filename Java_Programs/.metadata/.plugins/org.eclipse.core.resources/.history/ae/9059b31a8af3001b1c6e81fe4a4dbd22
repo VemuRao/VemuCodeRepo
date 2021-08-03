@@ -1,0 +1,33 @@
+
+public class SwapNumber {
+
+	public static void main(String[] args) {
+		//Swap using temp variable
+		//it consumes 4 bit extra memory
+		int a=5,b=4,temp;
+		
+		temp=a;
+		a=b;
+		b=temp;
+		
+		System.out.println("The value of a is: "+a);
+		System.out.println("The value of b is: "+b);
+		
+		//Swap using sum and minus operation, this also consumes extra memory during sum and minus operation.
+		
+		int i=5; //--101
+		int j=4; //--100
+		
+		i=i+j; //a=9 -->1001 --> 4bits
+		j=i-j;
+		i=i-j;
+		
+		System.out.println("===================================");
+		System.out.println("The value of i is: "+i);
+		System.out.println("The value of j is: "+j);
+		
+		
+
+	}
+
+}
